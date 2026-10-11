@@ -1,0 +1,8 @@
+{
+  "name": "OmniScience Simulator",
+  "description": "An AI-powered research agent that simulates complex scientific phenomena—from biology to physics—in a virtual environment and generates comprehensive research papers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
